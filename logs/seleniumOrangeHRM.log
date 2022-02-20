@@ -1,0 +1,21 @@
+2022-02-20 22:05:16 INFO  Selenium:17 - Browser opened
+2022-02-20 22:05:16 INFO  Selenium:15 - Invalid Login Test is Started
+2022-02-20 22:05:18 INFO  Selenium:25 - Invalid Login Test is Completed
+2022-02-20 22:05:18 INFO  Selenium:23 - Browser Closed
+
+2022-02-20 22:05:18 INFO  Selenium:24 - ---------------------------------------------
+
+2022-02-20 22:05:22 INFO  Selenium:17 - Browser opened
+2022-02-20 22:05:22 INFO  Selenium:31 - Successful Login Test is Started
+2022-02-20 22:05:26 INFO  Selenium:41 - Logged in User: Paul
+2022-02-20 22:05:26 INFO  Selenium:42 - Successful Login Test is Completed
+2022-02-20 22:05:26 INFO  Selenium:23 - Browser Closed
+
+2022-02-20 22:05:26 INFO  Selenium:24 - ---------------------------------------------
+
+2022-02-20 22:05:31 INFO  Selenium:17 - Browser opened
+2022-02-20 22:05:31 INFO  Selenium:49 - FailCase Test is Started
+2022-02-20 22:05:54 INFO  Selenium:23 - Browser Closed
+
+2022-02-20 22:05:54 INFO  Selenium:24 - ---------------------------------------------
+
